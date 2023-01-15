@@ -1,0 +1,8 @@
+C:\PROG1925\inClass\InClass4\bin\Debug\InClass4.exe.config
+C:\PROG1925\inClass\InClass4\bin\Debug\InClass4.exe
+C:\PROG1925\inClass\InClass4\bin\Debug\InClass4.pdb
+C:\PROG1925\inClass\InClass4\obj\Debug\InClass4.csproj.AssemblyReference.cache
+C:\PROG1925\inClass\InClass4\obj\Debug\InClass4.csproj.CoreCompileInputs.cache
+C:\PROG1925\inClass\InClass4\obj\Debug\InClass4.exe
+C:\PROG1925\inClass\InClass4\obj\Debug\InClass4.pdb
+C:\PROG1925\inClass\InClass4\obj\Debug\InClass4.csproj.SuggestedBindingRedirects.cache
